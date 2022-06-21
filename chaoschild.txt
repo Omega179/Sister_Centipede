@@ -1,0 +1,23 @@
+Chaos;Child is part 4 of the Science Adventure series. Chaos;Child follows a high school student who seeks to uncover the truth behind a string of murders resembling the ones from Chaos;Head, six years before.
+
+**Required for Full Understanding**: Chaos;Head
+
+**Recommended for References/Themes**: Steins;Gate, Robotics;Notes
+
+**Year (In-Universe)**: 2015
+
+**Science Fiction Themes**: Perception, Reality
+
+**Storytelling Themes**: Murder Mystery, Psychological Thriller
+
+**Variations**: 
+* Chaos;Child: Original VN. 
+* Chaos;Child Anime: Not recommended due to the massive rushing of the story and extremely reduced emotional impact. 
+
+***
+
+**VN information**:
+
+**Routes**: You will be locked onto one route for the first playthrough. After that, character routes become unlocked. Follow [this guide](http://sonome.dareno.me/projects/cc-walkthrough.html) for instructions on how to access the character routes in the optimal order.
+
+**Translation Patch**: It is highly recommended to use the translation patch from the Committee of Zero to fix up translation issues such as untranslated CGs and images (one of which you are required to read to finish the game), tutorials for mechanics, mistranslated slang, and out-of-character dialogue. You can find it [here](http://sonome.dareno.me/projects/chaoschild-steam.html) 
